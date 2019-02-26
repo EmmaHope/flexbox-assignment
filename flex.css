@@ -71,3 +71,4 @@ flex-basis: 33vh;
 .box10 {
 flex-basis: 29vh;
 }
+@media screen (max-width:480px){}
