@@ -43,7 +43,7 @@ justify-content: space-between;
 width: 100%
     
 }
-
+@media screen (max-width:1020){}
 .box2 {
 flex-basis: 46vh;
 }
